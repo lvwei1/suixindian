@@ -1,0 +1,108 @@
+.q{
+    width:7.5rem;
+    height:0.88rem;
+    background:linear-gradient(to right,#ff3433,#ff7a18);
+    font-size: 0.36rem;
+    background:-webkit-linear-gradient(to right,#ff3433,#ff7a18);
+    color:white;
+    text-align:center;
+    line-height:0.88rem;
+    text-align: center;
+    position:fixed; 
+    top:0;
+    left:0;
+    position:relative; 
+}
+.q i{
+    font-size: 0.36rem;
+    color:white;
+    position:absolute; 
+    left:0.24rem;
+    top:0.02rem;
+}
+a{
+    text-decoration:none;
+}
+.w{
+    width: 7.02rem;
+    height:0.95rem;
+    margin:0 auto;
+    margin-top:0.88rem;
+    position:relative; 
+}
+.w .w1{
+    width:0.36rem;
+    height:0.36rem;
+    border-radius:0.4rem;
+    background-color: #fc7365;
+    border:0.06rem solid #F9F9F9;
+    position:absolute; 
+    top:0.25rem;
+    left:0.1rem;
+}
+.w span{
+    font-size:0.36rem;
+    color:#ff4f40;    
+    position:absolute; 
+    top:0.28rem;
+    left:0.68rem;
+}
+.w .icon-lajitong{
+    font-size:0.32rem;
+    color:#ff4f40;  
+    position:absolute; 
+    top:0.27rem;
+    right:0.85rem;
+
+}
+.w .icon-bianji{
+    font-size:0.32rem;
+    color:#ff4f40;  
+    position:absolute; 
+    top:0.3rem;
+    right: 0.22rem;
+
+}
+.e{
+    widows: 7.02rem;
+    height:2.25rem;
+    margin:0 auto;
+    margin-bottom: 0.3rem;
+    position:relative; 
+    box-shadow:0 0 0.05rem 0.05rem #fef4f0;
+}
+.e .e1{
+    font-size:0.36rem;
+    color:#000;
+    position:absolute; 
+    top:0.17rem;
+    left:0.38rem;
+}
+.e .e2{
+    font-size:0.26rem;
+    color:#B8B8B8;
+    position:absolute; 
+    top:1.25rem;
+    left:0.38rem;
+}
+.e .e3{
+    font-size:0.26rem;
+    color:#B8B8B8;
+    position:absolute; 
+    top:1.67rem;
+    left:0.38rem;
+}
+.w .ww{
+    background-color: #D3D3D3;
+}
+.r{
+    width: 3.59rem;
+    height: 0.87rem;
+    margin: 0 auto;
+    border-radius:0.8rem;
+    background:linear-gradient(to right,#ff3433,#ff7a18);
+    font-size:0.4rem;
+    color:#fff;
+    text-align:center;
+    line-height:0.87rem;
+}

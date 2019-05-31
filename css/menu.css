@@ -1,0 +1,143 @@
+*{
+    margin:0;
+    padding:0;
+    list-style: none;
+}
+*a{
+    text-decoration:none;
+}
+.qq{
+    width:7.5rem;
+    height:0.88rem;
+    background:linear-gradient(to right,#ff3433,#ff7a18);
+    font-size: 0.36rem;
+    background:-webkit-linear-gradient(to right,#ff3433,#ff7a18);
+    color:white;
+    text-align:center;
+    line-height:0.88rem;
+    text-align: center;
+    position:fixed; 
+    top:0;
+    left:0;
+}
+.ww{
+    width:7.02rem;
+    height:0.88rem;
+    margin:0 auto;
+    margin-top:0.88rem;
+    /* flex-direction:row; */
+    display:flex;
+    /* flex-direction:column; */
+    align-items: center;
+    justify-content: space-between;
+
+}
+.ww .ww2{
+    border-bottom:0.03rem solid #ff5751;
+    color:#ff5751;
+    text-decoration:none;
+}
+.ww1{
+    color:#000000;
+}
+.ee{
+    width:7.02rem;
+    height:2.3rem;
+    box-shadow:0 0 0.15rem 0.15rem #fef4f0;
+    margin-top:0.24rem;
+    margin:0 auto;
+    position:relative; 
+}
+.ee .ee1{
+    display:block;  
+    width:3.13rem;
+    height:1.95rem;
+    margin-left:0.22rem;
+    margin-top:0.18rem;
+    float:left;
+}
+.ee .ee1 img{
+    width:3.13rem;
+    height:1.95rem;
+}
+.ee .ee2{
+    display:block; 
+    float:left;
+    height:1.95rem;
+    width:auto;
+    margin-top:0.18rem;
+    margin-left:0.16rem;
+    position:relative; 
+}
+.ee .ee2 .ee2_1{
+    margin-top:0.15rem;
+    font-size:0.3rem;
+    color: #000000;
+    display:inline-block;
+}
+.ee .ee2 .ee2_2{
+    font-size:0.2rem;
+    color: #CBCBCB;
+}
+.ee .ee2 .ee2_3{
+    display:inline-block;
+    font-size:0.3.6rem;
+    color: #ff3931;
+    margin-top:0.1rem;
+}
+
+.ee .ee2 .ee2_4{
+    font-size:0.2rem;
+    color: #BCBCBC;
+}
+.ee .ee3{
+    display:block; 
+    width:0.6rem;
+    height:0.6rem;
+    box-shadow:0 0 0.05rem 0.05rem #fef4f0;
+    border-radius:0.6rem;
+    position:absolute;
+    right:0.16rem;
+    bottom:0.16rem;
+    text-align:center;
+}
+.ee .ee3 .icon-gouwuchekong{
+    font-size:0.4rem;
+    color:#ff7918;
+    text-align:center;
+    line-height:0.6rem;
+}
+.uu{
+    height:0.96rem;
+    width:7.02rem;
+    margin:0 auto;
+    display:flex; 
+    justify-content:space-between;  
+    position:fixed;
+    bottom:0;
+    left:0.24rem;
+}
+.uu .uu1{
+    width:0.96rem;
+    height:0.96rem;
+    background-color: #fefefe;
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+}
+.iconfont{
+    font-size:0.20rem;
+    color:#ff5b2d;
+}
+.uu .uu1 span{
+    font-size:0.18rem;
+    color:#ff5b2d;
+}   
+.uu .u2 .iconfont{
+    color:#4c4c4c;
+}
+.uu .u2 span{
+    font-size:0.18rem;
+    color:#4c4c4c;
+}  

@@ -1,0 +1,49 @@
+*{
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+div .bigBox{
+    width:170px;
+    height:auto;
+    background-color:#383840;
+    margin:0 auto;
+}
+div .bigBox .top{
+    height:25px;
+    background-color:#EEEDF2;
+}
+div .bigBox .screen{
+    height:67px;
+    background-color:#38383F;
+}
+div .bigBox .btn{
+    height:145px;
+    background-color:#EEEDF2;
+}
+div .bigBox .key{
+    height:35px;
+    width:41px;
+    background-color:#EEEDF2;
+    float:left;
+    border-bottom:2px solid black;
+    border-right:2px solid black;
+    color: black;
+    text-align:center;
+    line-height:35px;
+    font-size:10px;  
+}
+div .bigBox .key2{
+    border-right:0;
+}
+div .bigBox .key3{
+    border-bottom:0;
+}
+div .bigBox .key4{
+    background-color:#C4C3C8
+}
+.lv{
+    float:left;
+    
+
+}
